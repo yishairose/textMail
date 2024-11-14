@@ -3,3 +3,5 @@ node_modules/
 credentials.json
 dumb-mail-82ed28699b2c.json
 token.json
+echo "dumb-mail-82ed28699b2c.json" >> .gitignore
+echo "credentials.json" >> .gitignore
